@@ -1,0 +1,118 @@
+[{
+    "name": "배경",
+    "parts": [{
+        "name": "삼족오배경1",
+        "images": [{
+            "path": "삼족오배경1.png",
+            "order": 100
+        }]
+    }, {
+        "name": "삼족오배경2",
+        "images": [{
+            "path": "삼족오배경2.png",
+            "order": 100
+        }]
+    }, {
+        "name": "삼족오배경3",
+        "images": [{
+            "path": "삼족오배경3.png",
+            "order": 100
+        }]
+    }, {
+        "name": "삼족오배경4",
+        "images": [{
+            "path": "삼족오배경4.png",
+            "order": 100
+        }]
+    }]
+}, {
+    "name": "배경문양",
+    "parts": [{
+        "name": "삼족오배경문양1",
+        "images": [{
+            "path": "삼족오배경문양1.png",
+            "order": 200
+        }]
+    }, {
+        "name": "삼족오배경문양2",
+        "images": [{
+            "path": "삼족오배경문양2.png",
+            "order": 200
+        }]
+    }, {
+        "name": "삼족오배경문양3",
+        "images": [{
+            "path": "삼족오배경문양3.png",
+            "order": 200
+        }]
+    }, {
+        "name": "삼족오배경문양4",
+        "images": [{
+            "path": "삼족오배경문양4.png",
+            "order": 200
+        }]
+    }]
+}, {
+    "name": "몸",
+    "parts": [{
+        "name": "삼족오몸1",
+        "images": [{
+            "path": "삼족오몸1.png",
+            "order": 300
+        }]
+    }, {
+        "name": "삼족오몸2",
+        "images": [{
+            "path": "삼족오몸2.png",
+            "order": 300
+        }]
+    }]
+}, {
+    "name": "깃",
+    "parts": [{
+        "name": "삼족오깃1",
+        "images": [{
+            "path": "삼족오깃1.png",
+            "order": 400
+        }]
+    }, {
+        "name": "삼족오깃2",
+        "images": [{
+            "path": "삼족오깃2.png",
+            "order": 400
+        }]
+    }, {
+        "name": "삼족오깃3",
+        "images": [{
+            "path": "삼족오깃3.png",
+            "order": 400
+        }]
+    }]
+}, {
+    "name": "눈",
+    "parts": [{
+        "name": "삼족오눈1",
+        "images": [{
+            "path": "삼족오눈1.png",
+            "order": 500
+        }]
+    }, {
+        "name": "삼족오눈2",
+        "images": [{
+            "path": "삼족오눈2.png",
+            "order": 500
+        }]
+    }, {
+        "name": "삼족오눈3",
+        "images": [{
+            "path": "삼족오눈3.png",
+            "order": 500
+        }]
+    }, {
+        "name": "삼족오눈4",
+        "images": [{
+            "path": "삼족오눈4.png",
+            "order": 500
+        }]
+    }]
+}]

@@ -1,0 +1,118 @@
+[{
+    "name": "배경",
+    "parts": [{
+        "name": "목어배경1",
+        "images": [{
+            "path": "목어배경1.png",
+            "order": 100
+        }]
+    }, {
+        "name": "목어배경2",
+        "images": [{
+            "path": "목어배경2.png",
+            "order": 100
+        }]
+    }, {
+        "name": "목어배경3",
+        "images": [{
+            "path": "목어배경3.png",
+            "order": 100
+        }]
+    }, {
+        "name": "목어배경4",
+        "images": [{
+            "path": "목어배경4.png",
+            "order": 100
+        }]
+    }]
+}, {
+    "name": "배경문양",
+    "parts": [{
+        "name": "목어배경문양1",
+        "images": [{
+            "path": "목어배경문양1.png",
+            "order": 200
+        }]
+    }, {
+        "name": "목어배경문양2",
+        "images": [{
+            "path": "목어배경문양2.png",
+            "order": 200
+        }]
+    }, {
+        "name": "목어배경문양3",
+        "images": [{
+            "path": "목어배경문양3.png",
+            "order": 200
+        }]
+    }, {
+        "name": "목어배경문양4",
+        "images": [{
+            "path": "목어배경문양4.png",
+            "order": 200
+        }]
+    }]
+}, {
+    "name": "몸",
+    "parts": [{
+        "name": "목어몸1",
+        "images": [{
+            "path": "목어몸1.png",
+            "order": 300
+        }]
+    }, {
+        "name": "목어몸2",
+        "images": [{
+            "path": "목어몸2.png",
+            "order": 300
+        }]
+    }, {
+        "name": "목어몸3",
+        "images": [{
+            "path": "목어몸3.png",
+            "order": 300
+        }]
+    }]
+}, {
+    "name": "비늘",
+    "parts": [{
+        "name": "목어비늘1",
+        "images": [{
+            "path": "목어비늘1.png",
+            "order": 400
+        }]
+    }, {
+        "name": "목어비늘2",
+        "images": [{
+            "path": "목어비늘2.png",
+            "order": 400
+        }]
+    }, {
+        "name": "목어비늘3",
+        "images": [{
+            "path": "목어비늘3.png",
+            "order": 400
+        }]
+    }]
+}, {
+    "name": "눈",
+    "parts": [{
+        "name": "목어눈1",
+        "images": [{
+            "path": "목어눈1.png",
+            "order": 500
+        }]
+    }, {
+        "name": "목어눈2",
+        "images": [{
+            "path": "목어눈2.png",
+            "order": 500
+        }]
+    }, {
+        "name": "목어눈3",
+        "images": [{
+            "path": "목어눈3.png",
+            "order": 500
+        }]
+    }]
+}]

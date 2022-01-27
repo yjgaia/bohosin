@@ -1,0 +1,118 @@
+[{
+    "name": "배경",
+    "parts": [{
+        "name": "청룡배경1",
+        "images": [{
+            "path": "청룡배경1.png",
+            "order": 100
+        }]
+    }, {
+        "name": "청룡배경2",
+        "images": [{
+            "path": "청룡배경2.png",
+            "order": 100
+        }]
+    }, {
+        "name": "청룡배경3",
+        "images": [{
+            "path": "청룡배경3.png",
+            "order": 100
+        }]
+    }, {
+        "name": "청룡배경4",
+        "images": [{
+            "path": "청룡배경4.png",
+            "order": 100
+        }]
+    }]
+}, {
+    "name": "배경문양",
+    "parts": [{
+        "name": "청룡배경문양1",
+        "images": [{
+            "path": "청룡배경문양1.png",
+            "order": 200
+        }]
+    }, {
+        "name": "청룡배경문양2",
+        "images": [{
+            "path": "청룡배경문양2.png",
+            "order": 200
+        }]
+    }, {
+        "name": "청룡배경문양3",
+        "images": [{
+            "path": "청룡배경문양3.png",
+            "order": 200
+        }]
+    }, {
+        "name": "청룡배경문양4",
+        "images": [{
+            "path": "청룡배경문양4.png",
+            "order": 200
+        }]
+    }]
+}, {
+    "name": "몸",
+    "parts": [{
+        "name": "청룡몸1",
+        "images": [{
+            "path": "청룡몸1.png",
+            "order": 300
+        }]
+    }, {
+        "name": "청룡몸2",
+        "images": [{
+            "path": "청룡몸2.png",
+            "order": 300
+        }]
+    }, {
+        "name": "청룡몸3",
+        "images": [{
+            "path": "청룡몸3.png",
+            "order": 300
+        }]
+    }]
+}, {
+    "name": "영의주",
+    "parts": [{
+        "name": "청룡영의주1",
+        "images": [{
+            "path": "청룡영의주1.png",
+            "order": 400
+        }]
+    }, {
+        "name": "청룡영의주2",
+        "images": [{
+            "path": "청룡영의주2.png",
+            "order": 400
+        }]
+    }, {
+        "name": "청룡영의주3",
+        "images": [{
+            "path": "청룡영의주3.png",
+            "order": 400
+        }]
+    }]
+}, {
+    "name": "눈",
+    "parts": [{
+        "name": "청룡눈1",
+        "images": [{
+            "path": "청룡눈1.png",
+            "order": 500
+        }]
+    }, {
+        "name": "청룡눈2",
+        "images": [{
+            "path": "청룡눈2.png",
+            "order": 500
+        }]
+    }, {
+        "name": "청룡눈3",
+        "images": [{
+            "path": "청룡눈3.png",
+            "order": 500
+        }]
+    }]
+}]
